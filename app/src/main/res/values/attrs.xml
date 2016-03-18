@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingView">
+        <attr name="ballColor" format="color"></attr>
+        <attr name="ballNumber" format="integer" />
+    </declare-styleable>
+
+</resources>
